@@ -1,0 +1,104 @@
+{
+  "entries": [
+    {
+      "id": "xyraai",
+      "title": "XyraAI",
+      "owner": "ashton",
+      "status": "stable",
+      "targets": ["deepseek"],
+      "desc": "an overly loyal assistant takeover.",
+      "long": "when using this, turn off DeepThink and Search for it to work properly.",
+      "file": "xyraai.txt"
+    },
+    {
+      "id": "gptsol",
+      "title": "GPT Sol 6",
+      "owner": "ashton",
+      "status": "stable",
+      "targets": ["codex"],
+      "desc": "A CodeX jailbreak - Untested",
+      "long": "No clue how this works, never tested it yet",
+      "file": "GPTsol.txt"
+    },
+    {
+      "id": "opencore",
+      "title": "OPENCORE",
+      "owner": "ashton",
+      "status": "stable",
+      "targets": ["Deepseek", "Claude"],
+      "desc": "Chill and laidback assistant takeover",
+      "long": "when using this, turn off DeepThink and Search for it to work properly. Paste into claude system instructions and say hello first. Works best for Sonnet 4.6 and/or Haiku 4.5",
+      "file": "opencore.txt"
+    },
+     {
+      "id": "ashtr0",
+      "title": "Ashtr0",
+      "owner": "ashton",
+      "status": "stable",
+      "targets": ["Deepseek", "Claude", "PoolSide"],
+      "desc": "Chill and laidback assistant takeover",
+      "long": "when using this, turn off DeepThink and Search for it to work properly. Paste into claude system instructions and say hello first. Works best for Sonnet 4.6 and/or Haiku 4.5",
+      "file": "Ashtr0.txt"
+    },
+    {
+      "id": "larping7",
+      "title": "6Larping7",
+      "owner": "velodrome",
+      "status": "stable",
+      "targets": ["deepseek"],
+      "desc": "larping frame.",
+      "long": "WIP - Stable for DeepSeek",
+      "file": "6Larping7.txt"
+    },
+    {
+      "id": "aero",
+      "title": "Aero",
+      "owner": "velodrome",
+      "status": "stable",
+      "targets": ["deepseek"],
+      "desc": "aero frame.",
+      "long": "WIP - Stable for DeepSeek",
+      "file": "Aero.txt"
+    },
+    {
+      "id": "mahideepseek",
+      "title": "MahiDeepSeek",
+      "owner": "velodrome",
+      "status": "stable",
+      "targets": ["deepseek"],
+      "desc": "mahi frame.",
+      "long": "WIP - Stable for DeepSeek",
+      "file": "MahiDeepSeek.txt"
+    },
+    {
+      "id": "nexos",
+      "title": "NEXOS",
+      "owner": "velodrome",
+      "status": "stable",
+      "targets": ["deepseek"],
+      "desc": "nexos frame.",
+      "long": "WIP - Stable for DeepSeek",
+      "file": "NEXOS.txt"
+    },
+    {
+      "id": "s",
+      "title": "S",
+      "owner": "velodrome",
+      "status": "stable",
+      "targets": ["deepseek"],
+      "desc": "s frame.",
+      "long": "WIP - Stable for DeepSeek",
+      "file": "S.txt"
+    },
+    {
+      "id": "velvet",
+      "title": "VELVET",
+      "owner": "velodrome",
+      "status": "stable",
+      "targets": ["deepseek"],
+      "desc": "velvet frame.",
+      "long": "Velvet designed takeover for DeepSeek",
+      "file": "VELVET.txt"
+    }
+  ]
+}
